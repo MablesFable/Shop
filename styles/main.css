@@ -1,4 +1,4 @@
-body{
+body {
 background:#999;
 background-image: url("../images/bckg.jpeg");
 font-family:arial;
@@ -6,8 +6,11 @@ font-family:arial;
 margin:0;
 }
 
-header{
+header {
 background:#D8FA85;
+}
+
+header h1 {
 color:#85FAD8;
 }
 

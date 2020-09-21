@@ -42,7 +42,8 @@ nav ul li {
   float: left;
   background: #666;
   width: 31%;
-  margin: 1%;
+  margin: .5%;
+  padding: .5%
   border-radius:5px;
 }
 

@@ -46,6 +46,10 @@ nav ul li {
   margin: 1%;
 }
 
+.intro{
+  clear:both;
+}
+
 footer{
   clear:both;
 }

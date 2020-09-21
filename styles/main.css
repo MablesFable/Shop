@@ -12,6 +12,16 @@ background:#D8FA85;
 
 header h1 {
 color:#85FAD8;
+margin:0;
+}
+
+nav ul {
+margine:0;
+}
+
+nav ul li {
+display:inline-block;
+list-style-type: none;
 }
 
 .discount {

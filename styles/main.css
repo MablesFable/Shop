@@ -41,9 +41,9 @@ nav ul li {
 .col{
   float: left;
   background: #666;
-  width: 27%;
-  padding: 1%;
+  width: 31%;
   margin: 1%;
+  border-radius:5px;
 }
 
 .intro{

@@ -8,8 +8,8 @@ h1, h2{
   color:#555;
 }
 
-p {
-  background:#666;
+.discount {
+  background:#FA9A85;
   color:white;
   padding:5px;
 }

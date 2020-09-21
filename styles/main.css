@@ -1,36 +1,50 @@
 body {
-margin:0;
-background:#999;
-background-image: url("../images/bckg.jpeg");
-font-family:arial;
+  margin:0;
+  background:#999;
+  background-image: url("../images/bckg.jpeg");
+  font-family:arial;
 }
 
 header {
-background:#D8FA85;
-padding:5px 15px 0px 15px;
+  background:#D8FA85;
+  padding:5px 15px 0px 15px;
 }
 
 header h1 {
-display: inline;
-color:#85FAD8;
-margin:0;
+  display: inline;
+  color:#85FAD8;
+  margin:0;
 }
 
 nav ul {
-display: inline;
-margine:0;
-padding:0 0 0 15px;
+  display: inline;
+  margine:0;
+  padding:0 0 0 15px;
 }
 
 nav ul li {
-background:red;
-display:inline-block;
-list-style-type: none;
-padding: 5px 15px;
+  background:red;
+  display:inline-block;
+  list-style-type: none;
+  padding: 5px 15px;
 }
 
 .discount {
   background:#FA9A85;
   color:white;
   padding:5px;
+}
+
+.row{
+}
+
+.col{
+  float: left;
+  background: #666;
+  padding: 20px;
+  margin: 5px;
+}
+
+footer{
+  clear:both;
 }

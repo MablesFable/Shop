@@ -11,11 +11,13 @@ background:#D8FA85;
 }
 
 header h1 {
+display: inline;
 color:#85FAD8;
 margin:0;
 }
 
 nav ul {
+display: inline;
 margine:0;
 }
 

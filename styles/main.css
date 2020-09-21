@@ -2,10 +2,13 @@ body{
 background:#999;
 background-image: url("../images/bckg.jpeg");
 font-family:arial;
+  
+margin:0;
 }
 
-h1, h2{
-  color:#555;
+header{
+background:#D8FA85;
+color:#85FAD8;
 }
 
 .discount {

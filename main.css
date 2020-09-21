@@ -3,3 +3,7 @@ background:#999;
 background-image: url("images/bckg.jpeg");
 font-family:arial;
 }
+
+h1, h2{
+  color:#555;
+}

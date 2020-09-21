@@ -1,6 +1,5 @@
 body{
+background:#999;
 background-image: url("images/bckg.jpeg");
-background:green;
-  
-font-family: arial;
+font-family:arial;
 }
